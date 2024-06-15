@@ -1,7 +1,7 @@
 ---
 description: >-
-  This page serves as the license agreement, detailing the licensing terms for
-  the creations you download from orcajoy.com and related social media
+  This page serves as the Usage License & Terms, detailing the licensing terms
+  for the creations you download from orcajoy.com and related social media
   platforms.
 cover: .gitbook/assets/1_2.png
 coverY: 0
