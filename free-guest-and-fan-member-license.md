@@ -49,9 +49,11 @@ In addition to the freedom of non-commercial playback and derivative works, fan 
 
 ### ⚠️ Please note:
 
-This licensing page provides information about the scope of the license and permitted uses of the works when downloading. It is not an official legal document and does not carry the legal value or binding force of a sale or purchase agreement.
+**1.Disclaimer**: By using our items, please ensure compliance with local laws, and respect the rights of individuals and groups.
 
-The benefits and privileges for Fan Members (including Fan Silver Card and Sponsor Gold Card holders) are not part of a commercial transaction or sale of goods. They are tokens of appreciation for supporting our website and project.
+2.This licensing page provides information about the scope of the license and permitted uses of the works when downloading. It is not an official legal document and does not carry the legal value or binding force of a sale or purchase agreement.
+
+3.The benefits and privileges for Fan Members (including Fan Silver Card and Sponsor Gold Card holders) are not part of a commercial transaction or sale of goods. They are tokens of appreciation for supporting our website and project.
 
 {% hint style="info" %}
 You can save this page by printing,screenshots, saving as PDF, or other methods.
