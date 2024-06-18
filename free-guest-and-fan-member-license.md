@@ -22,7 +22,7 @@ layout:
 
 ## Free Guest and Fan Member License
 
-This page serves as the Usage License & Terms, detailing the licensing terms for the creations you download from orcajoy.com and related social media platforms..
+This page serves as the Usage License & Terms, detailing the licensing terms for the creations you download from [orcajoy.com](https://orcajoy.com/) and related social media platforms..
 
 ***
 
@@ -36,13 +36,11 @@ Free Guests can download creations for free from this website (orcajoy.com) or a
 
 ## 👥Free Guests License:
 
-We adopt the CC BY-NC-SA license, allowing personal non-commercial use, public performance at offline events such as street dance, parties, nightclubs, and pubs, as well as activity playback, playing in stores and business premises, and non-commercial derivative works. You can create non-commercial derivative works, mix or remix it into your own creations, perform covers or sing the songs, and freely share them on your social media platforms. Attribution to the creator is required, and a backlink to **OrcaJoy.com** must be provided.
+We adopt the CC BY-NC-SA license, allowing personal non-commercial use, public performance at offline events such as street dance, parties, nightclubs, and pubs, as well as activity playback, playing in stores and business premises, and non-commercial derivative works. You can create non-commercial derivative works, mix or remix it into your own creations, perform covers or sing the songs, and freely share them on your social media platforms. Attribution to the creator is required, and a backlink to [**OrcaJoy.com**](https://orcajoy.com/) must be provided.
 
 ## 💎Fan Members License:
 
 In addition to the freedom of non-commercial playback and derivative works, fan members enjoy more rights, including No attribution required, lossless quality downloads, priority access to future tracks, exclusive content access, and points rewards (Crypto-ERC20).
-
-
 
 ***
 
@@ -61,3 +59,5 @@ You can save this page by printing,screenshots, saving as PDF, or other methods.
 {% hint style="info" %}
 In case of any changes to the content or licensing terms, please refer to the latest version of this page.
 {% endhint %}
+
+© 2024 [OrcaJoy](https://orcajoy.com/)[com](https://orcajoy.com/)
