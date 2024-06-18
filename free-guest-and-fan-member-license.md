@@ -60,4 +60,4 @@ You can save this page by printing,screenshots, saving as PDF, or other methods.
 In case of any changes to the content or licensing terms, please refer to the latest version of this page.
 {% endhint %}
 
-© 2024 [OrcaJoy](https://orcajoy.com/)[com](https://orcajoy.com/)
+© 2024 [OrcaJoy](https://orcajoy.com/)
