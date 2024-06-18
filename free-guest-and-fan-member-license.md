@@ -32,7 +32,7 @@ This page serves as the Usage License & Terms, detailing the licensing terms for
 
 ## 📋Free Guests & Fan Members Details
 
-Free Guests can download creations for free from this website (orcajoy.com) or associated social media platforms without registration or licensing fees. Fan Members are those who hold our issued Fan Silver Card and Sponsor Gold Card NFTs. Whether you purchased your Fan Card from our website or received it as a gift, you are considered a fan in our Fan Members.
+Free Guests can download creations for free from this website ([orcajoy.com](https://orcajoy.com/)) or associated social media platforms without registration or licensing fees. Fan Members are those who hold our issued Fan Silver Card and Sponsor Gold Card NFTs. Whether you purchased your Fan Card from our website or received it as a gift, you are considered a fan in our Fan Members.
 
 ## 👥Free Guests License:
 
