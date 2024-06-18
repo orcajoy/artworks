@@ -3,29 +3,30 @@ description: >-
   This page serves as the Usage License & Terms, detailing the licensing terms
   for the creations you download from orcajoy.com and related social media
   platforms.
-cover: .gitbook/assets/1_2.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
-    visible: true
+    visible: false
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # 📄 Free Guest and Fan Member License
 
+<figure><img src=".gitbook/assets/LOGO2.png" alt="" width="166"><figcaption></figcaption></figure>
+
+## Free Guest and Fan Member License
+
+This page serves as the Usage License & Terms, detailing the licensing terms for the creations you download from orcajoy.com and related social media platforms..
+
 ***
 
-<table data-full-width="false"><thead><tr><th width="272" align="center"></th><th width="177" align="center">👥 Guests</th><th align="center">💎Fans </th></tr></thead><tbody><tr><td align="center">🎧Download Format</td><td align="center">MP3</td><td align="center">WAV (Lossless)</td></tr><tr><td align="center">🎨Personal Non-commercial Use</td><td align="center">✔️</td><td align="center">✔️</td></tr><tr><td align="center">❤️Social Media Sharing</td><td align="center">✔️</td><td align="center">✔️</td></tr><tr><td align="center">📢Public playing</td><td align="center">✔️</td><td align="center">✔️</td></tr><tr><td align="center">🎉Events playing<br>(e.g., parties, street dance, performances)</td><td align="center">✔️</td><td align="center">✔️</td></tr><tr><td align="center">🍺Commercial and non-commercial settings<br>(e.g., nightclubs, pubs, gyms) playing</td><td align="center">✔️</td><td align="center">✔️</td></tr><tr><td align="center">🔀Remix or Adaptation</td><td align="center">✔️</td><td align="center">✔️</td></tr><tr><td align="center">🎤Covers</td><td align="center">✔️</td><td align="center">✔️</td></tr><tr><td align="center">📝No attribution required</td><td align="center">❌</td><td align="center">✔️</td></tr><tr><td align="center"><strong>And More...</strong></td><td align="center"></td><td align="center"></td></tr><tr><td align="center">🎵Priority Download of Future Tracks</td><td align="center">❌</td><td align="center">✔️</td></tr><tr><td align="center">🗝️Access to Exclusive Content</td><td align="center">❌</td><td align="center">✔️</td></tr><tr><td align="center">🎁Points Rewards (Crypto-ERC20)</td><td align="center">✔️⭐</td><td align="center">✔️⭐⭐⭐⭐⭐</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="272">*</th><th align="center">👥 </th><th align="center">💎</th></tr></thead><tbody><tr><td>🆔Identity</td><td align="center">👥 Guests</td><td align="center">💎Fans</td></tr><tr><td>🎧Download Format</td><td align="center">MP3</td><td align="center">WAV (Lossless)</td></tr><tr><td>🎨Personal Non-commercial Use</td><td align="center">✔️</td><td align="center">✔️</td></tr><tr><td>❤️Social Media Sharing</td><td align="center">✔️</td><td align="center">✔️</td></tr><tr><td>📢Public playing</td><td align="center">✔️</td><td align="center">✔️</td></tr><tr><td>🎉Events playing<br>(e.g., parties, street dance, performances)</td><td align="center">✔️</td><td align="center">✔️</td></tr><tr><td>🍺Commercial and non-commercial settings<br>(e.g., nightclubs, pubs, gyms) playing</td><td align="center">✔️</td><td align="center">✔️</td></tr><tr><td>🔀Remix or Adaptation</td><td align="center">✔️</td><td align="center">✔️</td></tr><tr><td>🎤Covers</td><td align="center">✔️</td><td align="center">✔️</td></tr><tr><td>📝No attribution required</td><td align="center">❌</td><td align="center">✔️</td></tr><tr><td><strong>And More...</strong></td><td align="center"></td><td align="center"></td></tr><tr><td>🎵Priority Download of Future Tracks</td><td align="center">❌</td><td align="center">✔️</td></tr><tr><td>🗝️Access to Exclusive Content</td><td align="center">❌</td><td align="center">✔️</td></tr><tr><td>🎁Points Rewards (Crypto-ERC20)</td><td align="center">✔️⭐</td><td align="center">✔️⭐⭐⭐⭐⭐</td></tr></tbody></table>
 
 ***
 
@@ -40,8 +41,6 @@ We adopt the CC BY-NC-SA license, allowing personal non-commercial use, public p
 ## 💎Fan Members License:
 
 In addition to the freedom of non-commercial playback and derivative works, fan members enjoy more rights, including No attribution required, lossless quality downloads, priority access to future tracks, exclusive content access, and points rewards (Crypto-ERC20).
-
-
 
 
 
